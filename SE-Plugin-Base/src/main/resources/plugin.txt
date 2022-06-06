@@ -1,0 +1,4 @@
+id          = HackerAgent
+name        = HackerPlugin
+authors     = Luc Kaiser, Finn Pabst
+entrypoint  = HackerPlugin
